@@ -3,22 +3,11 @@ appTitle=MainView
 appDescription=App Description
 
 # Employees
-labelEmployee=Employee Id
+labelEmployee=Employee Name
 labelCountry=Country
 
 #Countries
 countryUS=United States
 countryUK=United Kindom
 countryES=Spain
-
-#Table Labels
-tableId=Employee Id
-tableName=Full Name
-tableCountry=Country
-tableCity=City
-
-#Labels Buttons
-btnFilter=Filter
-btnClearFilter=Filter Clear
-
 
