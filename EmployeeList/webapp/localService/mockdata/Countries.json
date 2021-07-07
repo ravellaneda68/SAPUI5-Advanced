@@ -1,9 +1,9 @@
 {
 "EmployeeId": "",
-    "CountryKey": "UK",
+    "CountryKey": "",
     "ListCountry": [
         {
-            "Key": "US",
+            "Key": "USA",
             "Text": "United States"
         },
         {
